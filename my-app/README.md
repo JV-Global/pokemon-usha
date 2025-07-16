@@ -28,3 +28,6 @@ http://localhost:3000/battle
 result : {
     "result": "Venusaur wins by both height and weight. 🏆"
 }
+
+
+4.) to start UI-  npm run and npm start
